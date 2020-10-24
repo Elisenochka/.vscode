@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\elili\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "code-runner.executorMap": 
+    { 
+        "python": "$pythonPath -u $fullFileName" 
+    }
+}
