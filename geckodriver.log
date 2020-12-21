@@ -1,0 +1,478 @@
+1608392996307	geckodriver	INFO	Listening on 127.0.0.1:55065
+1608392999340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileyYV2sp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608393004629	Marionette	INFO	Listening on port 55076
+1608393005097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608393099726	Marionette	INFO	Stopped listening on port 55076
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608448174714	geckodriver	INFO	Listening on 127.0.0.1:57389
+1608448177762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilepNW6G6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608448182562	Marionette	INFO	Listening on port 57404
+1608448183008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+1608448614814	Marionette	INFO	Stopped listening on port 57404
+8448454424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilexbCWSf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608448459241	Marionette	INFO	Listening on port 57535
+1608448459693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608448615533	Marionette	INFO	Stopped listening on port 57535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608448878224	geckodriver	INFO	Listening on 127.0.0.1:57952
+1608448881272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilexIrqTA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608448885610	Marionette	INFO	Listening on port 57962
+1608448886024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+1608448917122	Marionette	INFO	Stopped listening on port 57962
+1608448936763	geckodriver	INFO	Listening on 127.0.0.1:58042
+1608448939788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofile7LJOGV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouterNewTabHook.jsm, line 61: TypeError: this._router is null
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1608449746145	geckodriver	INFO	Listening on 127.0.0.1:50421
+1608449749228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofile5wOtDV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608449754756	Marionette	INFO	Listening on port 50430
+1608449755003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608449846156	Marionette	INFO	Stopped listening on port 50430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608450033821	geckodriver	INFO	Listening on 127.0.0.1:50819
+1608450036879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofile3M8gyx"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608450043767	Marionette	INFO	Listening on port 50828
+1608450044128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608450044136	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50817","noProxy":[],"sslProxy":"127.0.0.1:50817"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608450427459	Marionette	INFO	Stopped listening on port 50828
+8450389845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofiletpJZEj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608450396214	Marionette	INFO	Listening on port 51346
+1608450396607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608450396615	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51336","noProxy":[],"sslProxy":"127.0.0.1:51336"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608450424335	Marionette	INFO	Stopped listening on port 51346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608450468754	geckodriver	INFO	Listening on 127.0.0.1:51640
+1608450471769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileaG23BZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608450475886	Marionette	INFO	Listening on port 51649
+1608450476028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608450476034	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51638","noProxy":[],"sslProxy":"127.0.0.1:51638"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608450551139	Marionette	INFO	Stopped listening on port 51649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608450578899	geckodriver	INFO	Listening on 127.0.0.1:51963
+1608450581912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilexuxA4V"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608450586545	Marionette	INFO	Listening on port 51972
+1608450586681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608450586686	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51961","noProxy":[],"sslProxy":"127.0.0.1:51961"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://browser/content/aboutNetError.js, line 14: ReferenceError: RPMGetInnerMostURI is not defined
+1608450725268	Marionette	INFO	Stopped listening on port 51972
+1608453258534	geckodriver	INFO	Listening on 127.0.0.1:54370
+1608453261641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofile2nKE1W"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608453270929	Marionette	INFO	Listening on port 54379
+1608453271144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608453271150	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54368","noProxy":[],"sslProxy":"127.0.0.1:54368"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608453282157	Marionette	INFO	Stopped listening on port 54379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608453880472	geckodriver	INFO	Listening on 127.0.0.1:55355
+1608453883541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilezqe7D5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608453888921	Marionette	INFO	Listening on port 55364
+1608453889291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608453889295	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:55353","noProxy":[],"sslProxy":"127.0.0.1:55353"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1608454022760	FirefoxAccounts	ERROR	FxA rejecting with error NO_ACCOUNT, details: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 7220, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1608454263277	Marionette	INFO	Stopped listening on port 55364
+1608473589083	geckodriver	INFO	Listening on 127.0.0.1:59299
+1608473592143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofile7v8440"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608473595248	Marionette	INFO	Listening on port 59308
+1608473595294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608473595298	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59297","noProxy":[],"sslProxy":"127.0.0.1:59297"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608474107068	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1608474349696	Marionette	INFO	Stopped listening on port 59308
+1608478608609	geckodriver	INFO	Listening on 127.0.0.1:52555
+1608478611696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilesSYTrm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608478614313	Marionette	INFO	Listening on port 52564
+1608478614354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608478614359	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:52553","noProxy":[],"sslProxy":"127.0.0.1:52553"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608478671188	Marionette	INFO	Stopped listening on port 52564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608478698468	geckodriver	INFO	Listening on 127.0.0.1:52744
+1608478701530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileh9vgOz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608478703904	Marionette	INFO	Listening on port 52752
+1608478704180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608478704183	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:52742","noProxy":[],"sslProxy":"127.0.0.1:52742"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608478737284	Marionette	INFO	Stopped listening on port 52752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608481974597	geckodriver	INFO	Listening on 127.0.0.1:61193
+1608481977682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileTsr1LF"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608481980219	Marionette	INFO	Listening on port 61202
+1608481980322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608481980326	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61191","noProxy":[],"sslProxy":"127.0.0.1:61191"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608482053156	Marionette	INFO	Stopped listening on port 61202
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608482071125	geckodriver	INFO	Listening on 127.0.0.1:61466
+1608482074172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileNU5ZZa"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608482076557	Marionette	INFO	Listening on port 61477
+1608482076819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608482076822	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61464","noProxy":[],"sslProxy":"127.0.0.1:61464"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1608482238053	Marionette	INFO	Stopped listening on port 61477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608524425196	geckodriver	INFO	Listening on 127.0.0.1:63806
+1608524428242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileuwjcMo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608524431197	Marionette	INFO	Listening on port 63815
+1608524431376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608524431379	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63804","noProxy":[],"sslProxy":"127.0.0.1:63804"}
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/js/main.js?v=1607676732, line 996: Error: Network Error
+1608524878617	Marionette	INFO	Stopped listening on port 63815
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608524910592	geckodriver	INFO	Listening on 127.0.0.1:54720
+1608524913648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilezFF0ug"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608524916453	Marionette	INFO	Listening on port 54729
+1608524916803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608524953241	Marionette	INFO	Stopped listening on port 54729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608524970566	geckodriver	INFO	Listening on 127.0.0.1:54809
+1608524973608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilesrKSPB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608524976056	Marionette	INFO	Listening on port 54818
+1608524976233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608525177482	Marionette	INFO	Stopped listening on port 54818
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilekfnaIO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608525036125	Marionette	INFO	Listening on port 54914
+1608525036603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608525176931	Marionette	INFO	Stopped listening on port 54914
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608525236928	geckodriver	INFO	Listening on 127.0.0.1:55001
+1608525239991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilebx0ALa"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608525242681	Marionette	INFO	Listening on port 55009
+1608525243117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608530922086	Marionette	INFO	Stopped listening on port 55009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608531649313	geckodriver	INFO	Listening on 127.0.0.1:55467
+1608531652354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileOOLdVn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608531654968	Marionette	INFO	Listening on port 55475
+1608531655494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608531692806	Marionette	INFO	Stopped listening on port 55475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608531744553	geckodriver	INFO	Listening on 127.0.0.1:55564
+1608531747615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofile951Po0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608531749925	Marionette	INFO	Listening on port 55572
+1608531750251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608533027379	Marionette	INFO	Stopped listening on port 55572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608533089923	geckodriver	INFO	Listening on 127.0.0.1:55792
+1608533092980	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileHE7ksu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608533095622	Marionette	INFO	Listening on port 55800
+1608533096102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608533142403	Marionette	INFO	Stopped listening on port 55800
+1608533169315	geckodriver	INFO	Listening on 127.0.0.1:55874
+1608533172359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileXKFwyo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608533174959	Marionette	INFO	Listening on port 55883
+1608533174999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608533243958	Marionette	INFO	Stopped listening on port 55883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608533274318	geckodriver	INFO	Listening on 127.0.0.1:55956
+1608533277367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofilei8qEjj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608533279836	Marionette	INFO	Listening on port 55964
+1608533279992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1608535630767	Marionette	INFO	Stopped listening on port 55964
+8533417223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\elili\\AppData\\Local\\Temp\\rust_mozprofileyrg8xL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608533419803	Marionette	INFO	Listening on port 56057
+1608533419876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://iqtools-grocery-prod.intrtl.com/color-admin/js/apps.min.js?v=1607676676, line 6: TypeError: $(...).sortable is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://iqtools-grocery-prod.intrtl.com/color-admin/plugins/jquery/jquery-migrate-1.1.0.min.js?v=1607676677, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+JavaScript error: resource://devtools/client/inspector/markup/views/element-editor.js, line 508: TypeError: this.node.walkerFront is null
+1608535633476	Marionette	INFO	Stopped listening on port 56057

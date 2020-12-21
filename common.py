@@ -1,3 +1,4 @@
+from pprint import pprint
 sentence = "This is a common interview question"
 
 chars = list(sentence.lower())
@@ -8,6 +9,10 @@ for c in chars:
         charsdic.update({c: charsdic[c] + 1})
     else:
         charsdic[c] = 1
-print(charsdic)
+pprint(charsdic)
 
 print(max(charsdic, key=lambda k: charsdic[k]))
+
+charsdicsort = sorted(charsdic.items(), key = lambda kv:kv[1], reverse = True)
+
+print(charsdicsort[0])

@@ -65,7 +65,7 @@ print(z)
 y = int(z) + 1
 print(f"z: {z}, y: {y}")
 
-
+"python.pythonPath": "C:\\Users\\elili\\AppData\\Local\\Programs\\Python\\Python39"
 #y = x + 1
 
 #int(x)

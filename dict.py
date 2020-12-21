@@ -33,3 +33,11 @@ values = [x * 2 for x in range(5)]
 
 values = {x: x * 2 for x in range(5)}
 print(values)
+
+values = {}
+
+for x in range(5):
+    values[x] = x * 2
+
+#generator object
+values = (x * 2 for x in range(5))
