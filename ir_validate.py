@@ -71,7 +71,38 @@ def main():
 
     #driver.quit()
 
+# Create payload
+    payload = {
+        "confirm": "",
+        "klass_id": classid,
+        "klass_search": "",
+        "limit": "0",
+        "lots_id": "null",
+        "page": 1,
+        "proposal": "false",
+        "size_id": "null"
+    }
 
+    headers = {
+        'content-type': 'application/json;charset=utf-8',
+        'referer': iter_url
+    }
+
+    driver.request('POST', iter_url, data=json.dumps(payload), headers = headers)
+    
+    WebDriverWait(driver, 20).until(
+        ajax_complete,  "Timeout waiting for page to load")
+
+    #payload = {
+    #    "name":	"selectedProject",
+    #    "value":	projectid,
+    #    "expire":	"30000000"
+    #}
+
+    #headers = {
+    #    'content-type': 'application/json;charset=utf-8',
+    #    'referer': iter_url
+    #}   
 
 
 
